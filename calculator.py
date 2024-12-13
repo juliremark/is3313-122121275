@@ -9,7 +9,7 @@ class Calculator:
 
     def multiply(self, a, b):
         """Multiplies two numbers and returns the result."""
-        return a * 55
+        return a * b
 
     def divide(self, a, b):
         """Divides the first number by the second and returns the result.
